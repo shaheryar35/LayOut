@@ -1,0 +1,18 @@
+
+.input{
+    background-image: url(../assets/search.png);
+   background-position:right;
+    padding: left 30px;
+    background-size: 40px;
+    background-repeat: no-repeat;
+    border-color: white;
+    outline: none;
+    padding: 10px 5px;
+    cursor: pointer;
+     font-size: 14;
+    width: 100%;
+    
+
+
+
+}
